@@ -1,3 +1,3 @@
 # iBaby
 
-An small app with ReactNative
+A small app with ReactNative
